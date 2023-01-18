@@ -77,7 +77,7 @@
     "pull-ws": "^3.3.2"
   },
   "dependencies": {
-    "3box": "^1.10.2",
+    "3box": "^1.22.0",
     "@babel/runtime": "^7.5.5",
     "@download/blockies": "^1.0.3",
     "@formatjs/intl-relativetimeformat": "^5.2.6",
